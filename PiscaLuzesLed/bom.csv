@@ -1,0 +1,7 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"D1, D4, D5",3,"Vermelho LED"
+"R1, R2, R3",3,"150 Ω Resistor"
+"D2, D6, D7",3,"Amarelo LED"
+"D3, D8, D9",3,"Verde LED"
+"S1",1," Interruptor deslizante"
