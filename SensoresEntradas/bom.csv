@@ -1,0 +1,4 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"PINGDigital",1," Sensor de distância ultrassônico"
+"DISTAnalógico",1," Sensor de distância ultrassônico (quatro pinos)"
