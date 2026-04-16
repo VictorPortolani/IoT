@@ -42,12 +42,12 @@ void alerta()
   Serial.print(tamanho);
   Serial.println(" cm");
   
-  if (tamanho > 20) {
+  if (tamanho > 10) {
     alarme();
     digitalWrite(led, HIGH);
     Serial.println("Coxinha excedeu o tamanho permitido! Desperdicio de massa");
   }
-  else if (tamanho < 10) {
+  else if (tamanho < 5) {
     alarme();
     digitalWrite(led, HIGH);
     Serial.println("Coxinha muito pequena! Desperdicio de massa");

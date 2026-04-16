@@ -11,9 +11,9 @@ O projeto implementa um sistema automatizado que valida o tamanho das coxinhas p
 
 | Tamanho (cm) | Ação |
 |---|---|
-| **> 20** | Aciona LED e buzzer - Coxinha muito grande (desperdício de massa) |
-| **10 - 20** | LED desligado - Tamanho dentro do permitido ✓ |
-| **< 10** | Aciona LED e buzzer - Coxinha muito pequena (desperdício de massa) |
+| **> 10** | Aciona LED e buzzer - Coxinha muito grande (desperdício de massa) |
+| **5 - 10** | LED desligado - Tamanho dentro do permitido ✓ |
+| **< 5** | Aciona LED e buzzer - Coxinha muito pequena (desperdício de massa) |
 
 ## 🔧 Componentes
 
